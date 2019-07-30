@@ -20,5 +20,13 @@ Simple mod to make unique weapons have the barrel from their manufacturer.
 ![Image](https://i.imgur.com/uMzSq7Z.jpg)
 
 #### Changelog
+V.2.0 (30/07/19)
+- Added new weapons from Lilith DLC:
+    - Amigo Sincero
+    - Hot Mama
+    - Toothpick
+    - M2828 Thumpson
+    - Infection Cleaner
+
 V.1.1 (23/08/18)
 - Fixed Veritas's logo to better fit the Vladof barrel.
