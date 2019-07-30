@@ -1,4 +1,4 @@
-### Matching Barrels V.1.1 (23/08/18) by PsychoPatate
+### Matching Barrels V.2.0 (30/07/19) by PsychoPatate
 ---
 
 #### Intro
